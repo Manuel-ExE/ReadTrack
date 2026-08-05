@@ -1,0 +1,14 @@
+{
+  "name": "readtrack",
+  "version": "1.0.0",
+  "description": "ReadTrack reading session website with Vercel serverless backend",
+  "dependencies": {
+    "busboy": "1.6.0",
+    "form-data": "4.0.0",
+    "node-fetch": "2.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
